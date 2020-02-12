@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">inCodeCourseTask2</string>
+    <string name="settingOfGen">Настройки Генератора</string>
+    <string name="Digits">Цифры</string>
+    <string name="uppLetters">Прописные буквы</string>
+    <string name="lowLet">Строчные буквы</string>
+    <string name="symb">Спец символы</string>
+    <string name="str1">Длинна пароля</string>
+    <string name="str2">символов</string>
+    <string name="createPass">Создать пароль</string>
+    <string name="result">result</string>
+    <string name="chooseOneOrMoreChBox">Выберите хотябы одно действие</string>
+    <string name="max100symb">длина пароля ограничена 100 символами</string>
+    <string name="copyPast">Выделите текст и скопируйте</string>
+</resources>
