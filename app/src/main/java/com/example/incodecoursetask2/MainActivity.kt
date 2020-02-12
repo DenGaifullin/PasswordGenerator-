@@ -10,6 +10,7 @@ import android.widget.TextView
 import android.widget.Toast
 import java.util.*
 
+
 class MainActivity : AppCompatActivity() {
     private var result : TextView? = null
     private var digit : CheckBox? = null
